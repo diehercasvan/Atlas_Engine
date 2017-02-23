@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Atlas Engine</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    //Menu items flotingButton
+    <string name="items1">Pizarra</string>
+    <string name="items2">Compartir</string>
+    <string name="items3">Buscar</string>
+    <string name="items4">Grabar</string>
+    <string name="items5">Tools</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment blackboard</string>
+
+</resources>
